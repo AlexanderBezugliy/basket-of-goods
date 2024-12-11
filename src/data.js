@@ -1,0 +1,60 @@
+const cart = [
+    {
+        id: 1,
+        img: 'macbook.jpg',
+        title: 'Apple MacBook Air 13',
+        count: 1,
+        price: 37000,
+        priceTotal: 37000,
+    },
+    {
+        id: 2,
+        img: 'apple-watch.jpg',
+        title: 'Apple watch',
+        count: 1,
+        price: 15499,
+        priceTotal: 15499,
+    },
+    {
+        id: 3,
+        img: 'mac-pro.jpg',
+        title: 'Mac Pro',
+        count: 1,
+        price: 98000,
+        priceTotal: 98000,
+    },
+    {
+        id: 4,
+        img: 'iphone16.jpeg',
+        title: 'Iphone 16',
+        count: 1,
+        price: 56000,
+        priceTotal: 56000,
+    },
+    {
+        id: 5,
+        img: 'apple-airpods-2.jpg',
+        title: 'Air pods 2',
+        count: 1,
+        price: 7000,
+        priceTotal: 7000,
+    },
+    {
+        id: 6,
+        img: 'apple-usb-power-adapter.jpg',
+        title: 'Usb Power Adapter',
+        count: 1,
+        price: 4500,
+        priceTotal: 4500,
+    },
+    {
+        id: 7,
+        img: 'iphone-14-pro-max.jpg',
+        title: 'Usb Power Adapter',
+        count: 1,
+        price: 45600,
+        priceTotal: 45600,
+    },
+];
+
+export default cart;
